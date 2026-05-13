@@ -40,7 +40,7 @@ Uygulama yapay zeka destekli sohbet sistemi kullanmaktadır.
 
 <p>
 İletişim için:
-goralappcontact@gmail.com
+aydinbak44@gmail.com
 </p>
 
 </body>
