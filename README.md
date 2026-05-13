@@ -1,0 +1,2 @@
+# goral-privacy
+Gizlilik politikası
