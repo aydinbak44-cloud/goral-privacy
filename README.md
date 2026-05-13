@@ -43,5 +43,30 @@ Uygulama yapay zeka destekli sohbet sistemi kullanmaktadır.
 aydinbak44@gmail.com
 </p>
 
+<h2>Bulut Senkronizasyonu</h2>
+
+<p>
+GORAL bazı kullanıcı verilerini Firebase altyapısı üzerinden bulut ortamında saklayabilir.
+</p>
+
+<ul>
+<li>Sohbet mesajları</li>
+<li>Hatırlatıcılar</li>
+<li>Bildirim tercihleri</li>
+<li>AI hafıza kayıtları</li>
+</ul>
+
+<h2>Bildirimler</h2>
+
+<p>
+GORAL kullanıcı deneyimini geliştirmek amacıyla cihaz bildirimleri gönderebilir.
+</p>
+
+<h2>Üçüncü Taraf Hizmetler</h2>
+
+<p>
+Uygulama Google Firebase hizmetlerini kullanabilir.
+</p>
+
 </body>
 </html>
