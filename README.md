@@ -68,5 +68,11 @@ GORAL kullanıcı deneyimini geliştirmek amacıyla cihaz bildirimleri göndereb
 Uygulama Google Firebase hizmetlerini kullanabilir.
 </p>
 
+<h2>Kamera Kullanımı</h2>
+
+<p>
+GORAL uygulaması kullanıcı isteği doğrultusunda kamera erişimi kullanabilir.
+</p>
+
 </body>
 </html>
